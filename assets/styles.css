@@ -46,3 +46,11 @@ h1, h2, h3, h4, h5, h6 {
   border-color: #E8D2B0;
   color: #E8D2B0;
 }
+.image-branding {
+
+   max-height:  100px;
+
+  transform: translate(-50%, -50%);
+  z-index: 1;
+
+}
