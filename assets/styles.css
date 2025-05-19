@@ -48,9 +48,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 .image-branding {
 
-   max-height:  100px;
-
-  transform: translate(-50%, -50%);
-  z-index: 1;
+   width: 200px;
+height: 100px;
+  /* transform: translate(-50%, -50%);
+  z-index: 1; */
 
 }
